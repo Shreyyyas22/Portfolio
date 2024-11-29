@@ -23,29 +23,29 @@ import FramerWrapper from "@/components/animations/FramerWrapper";
 
 const skillPage = () => {
     const programmingLanguages = [
-        { alt: "JavaScript", img: js },
-        { alt: "TypeScript", img: ts },
-        { alt: "Python", img: python },
+        { alt: "JavaScript", img: js.src, width: 64, height: 64 },
+        { alt: "TypeScript", img: ts.src, width: 64, height: 64 },
+        { alt: "Python", img: python.src, width: 64, height: 64 },
     ];
     const frontendSkills = [
-        { alt: "React", img: react },
-        { alt: "Next.js", img: next },
-        { alt: "Tailwind CSS", img: tailwind },
-        { alt: "HTML", img: html },
-        { alt: "CSS", img: css },
-        { alt: "Redux", img: redux },
-        { alt: "Shader", img: shadcn },
+        { alt: "React", img: react.src, width: 64, height: 64 },
+        { alt: "Next.js", img: next.src, width: 64, height: 64 },
+        { alt: "Tailwind CSS", img: tailwind.src, width: 64, height: 64 },
+        { alt: "HTML", img: html.src, width: 64, height: 64 },
+        { alt: "CSS", img: css.src, width: 64, height: 64 },
+        { alt: "Redux", img: redux.src, width: 64, height: 64 },
+        { alt: "Shader", img: shadcn.src, width: 64, height: 64 },
     ];
     const backendSkills = [
-        { alt: "Node.js", img: nodejs },
-        { alt: "Express.js", img: expressjs },
-        { alt: "MongoDB", img: mongodb },
-        { alt: "Firebase", img: firebase },
+        { alt: "Node.js", img: nodejs.src, width: 64, height: 64 },
+        { alt: "Express.js", img: expressjs.src, width: 64, height: 64 },
+        { alt: "MongoDB", img: mongodb.src, width: 64, height: 64 },
+        { alt: "Firebase", img: firebase.src, width: 64, height: 64 },
     ];
     const tools = [
-        { alt: "Jenkins", img: jenkins },
-        { alt: "Docker", img: docker },
-        { alt: "GitHub", img: github },
+        { alt: "Jenkins", img: jenkins.src, width: 64, height: 64 },
+        { alt: "Docker", img: docker.src, width: 64, height: 64 },
+        { alt: "GitHub", img: github.src, width: 64, height: 64 },
     ];
 
     return (
