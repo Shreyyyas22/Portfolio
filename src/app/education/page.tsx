@@ -25,7 +25,7 @@ const educationPage = () => {
                 Pune
               </div>
               <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-              I hold a Bachelor of Engineering (B.E.) in Robotics and Automation from Bharati Vidyapeeth College of Engineering, Pune, graduating with a CGPA of 8.8 in 2024. My education provided me with a strong foundation in robotics, automation technologies, and software development, enabling me to approach complex problems with innovative solutions.
+              I hold a Bachelor of Technology (B.Tech.) in Robotics and Automation from Bharati Vidyapeeth College of Engineering, Pune, graduating with a CGPA of 8.8 in 2024. My education provided me with a strong foundation in robotics, automation technologies, and software development, enabling me to approach complex problems with innovative solutions.
               </p>
             </FramerWrapper>
           </div>

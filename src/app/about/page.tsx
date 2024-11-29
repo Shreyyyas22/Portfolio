@@ -3,7 +3,6 @@ import Heading from "@/components/Heading";
 import { Badge } from "@/components/ui/badge";
 import { Circle, User2 } from "lucide-react";
 import AboutFooter from "@/components/Aboutfooter";
-import DownloadResumeBtn from "@/components/DownloadResumeBtn";
 
 const page = () => {
   const items = [

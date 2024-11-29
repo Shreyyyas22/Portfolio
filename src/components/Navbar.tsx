@@ -7,9 +7,7 @@ import {
   FolderGit2,
   GraduationCap,
   HomeIcon,
-  Mail,
-  MoreHorizontal,
- 
+  Mail, 
   User,
 } from 'lucide-react';
 
@@ -17,7 +15,6 @@ import { Dock, DockIcon, DockItem, DockLabel } from '@/components/animations/Doc
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import FramerWrapper from "@/components/animations/FramerWrapper";
 import { usePathname } from "next/navigation";
 
 const Navbar = () => {

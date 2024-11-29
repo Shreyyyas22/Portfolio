@@ -12,8 +12,13 @@ import FramerWrapper from "./animations/FramerWrapper";
 import { ArrowUpRight } from "lucide-react";
 
 interface projectcardprops {
-  value: any;
-  num: number
+  value: {
+    title: string;
+    description: string;
+    tags: string[];
+    link: string;
+  };
+  num: number;
 }
 const ProjectCards: React.FC<projectcardprops> = ({ value, num }) => {
   return (
