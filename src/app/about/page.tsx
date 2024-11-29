@@ -95,11 +95,11 @@ const page = () => {
             </Heading>
           </div>
           <p className="font-poppins text-lg leading-relaxed text-gray-700">
-            When I’m not coding, you’ll find me on the cricket field. Having
-            represented my school at the national level, I’ve been honored with
-            the Best All-Rounder Award by VVS Laxman. Cricket has taught me
-            teamwork, strategy, and perseverance—qualities I bring into every
-            project I undertake.
+            When I&apos;m not coding, you&apos;ll find me on the cricket field.
+            Having represented my school at the national level, I&apos;ve been
+            honored with the Best All-Rounder Award by VVS Laxman. Cricket has
+            taught me teamwork, strategy, and perseverance—qualities I bring
+            into every project I undertake.
           </p>
         </FramerWrapper>
 
