@@ -5,7 +5,6 @@ import { Badge } from "@/components/ui/badge";
 import { Phone } from "lucide-react";
 
 
- 
 const contactPage = () => {
   return (
     // PROJECT PAGE
