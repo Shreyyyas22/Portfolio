@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 import { Badge } from "@/components/ui/badge";
 import { Phone } from "lucide-react";
 
-const ContactPage = () => {
+const contactPage = () => {
   return (
     <div className="h-full w-full relative flex flex-col items-start gap-5 overflow-hidden">
       <Badge className="gap-2">
@@ -24,4 +24,4 @@ const ContactPage = () => {
   );
 };
 
-export default ContactPage;
+export default contactPage;
